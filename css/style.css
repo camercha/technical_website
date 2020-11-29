@@ -49,6 +49,11 @@ width: 95%;
 line-height: 24px;
 }
 
+.code {
+    background-color: grey;
+    width: 100%;
+}
+
 
 .main-section ul{
    padding-left: 80px;
